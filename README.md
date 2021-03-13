@@ -1,4 +1,4 @@
-# Server_Study_Team
+# BackEnd_Study_Team
 ## 목적
 서버 프레임워크를 기반으로 서버를 공부한다.
 
