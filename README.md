@@ -3,21 +3,20 @@
 서버 프레임워크를 기반으로 서버를 공부한다.
 
 ## 주 언어 ( Main Language )
-![자바](https://me2.do/xlWKKKtu)
+<img src="https://me2.do/xlWKKKtu" width="25%">
 
 ## 책
-![교재](https://me2.do/GSiggXTB)
+<img src="https://me2.do/GSiggXTB" width="30%">
 
 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 
 
 ## Git Tool
 #### Command Recommend
-![Git Bash](https://user-images.githubusercontent.com/55151796/111035146-687fdd80-845c-11eb-975e-94ee2a2921bb.png)
-
+<img src='https://user-images.githubusercontent.com/55151796/111035146-687fdd80-845c-11eb-975e-94ee2a2921bb.png' width="30%">
 Git Bash
-#### GUI Recommend
-![Git Kraken](https://user-images.githubusercontent.com/55151796/111035185-982ee580-845c-11eb-8b13-b7388b72f68c.png)
 
+#### GUI Recommend
+<img src='https://user-images.githubusercontent.com/55151796/111035185-982ee580-845c-11eb-8b13-b7388b72f68c.png' width="40%">
 Git Kraken
 
 ## 참여 현황
