@@ -1,5 +1,23 @@
 # Server_Study_Team
 
+## 주 언어 ( Main Language )
+![자바](https://me2.do/xlWKKKtu)
+
+## 책
+![교재](https://me2.do/GSiggXTB)
+
+스프링 부트와 AWS로 혼자 구현하는 웹 서비스 
+
+## Git Tool
+#### Command Recommend
+![Git Bash](https://user-images.githubusercontent.com/55151796/111035146-687fdd80-845c-11eb-975e-94ee2a2921bb.png)
+
+Git Bash
+#### GUI Recommend
+![Git Kraken](https://user-images.githubusercontent.com/55151796/111035185-982ee580-845c-11eb-8b13-b7388b72f68c.png)
+
+Git Kraken
+
 ## 참여 현황
 | 참여자 | 0 | 1 | 2| 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
