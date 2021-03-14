@@ -13,11 +13,11 @@
 ## Git Tool
 #### Command Recommend
 <img src='https://user-images.githubusercontent.com/55151796/111035146-687fdd80-845c-11eb-975e-94ee2a2921bb.png' width="30%">
-Git Bash
+[Git Bash](https://gitforwindows.org/)
 
 #### GUI Recommend
 <img src='https://user-images.githubusercontent.com/55151796/111035185-982ee580-845c-11eb-8b13-b7388b72f68c.png' width="40%">
-Git Kraken
+[Git Kraken](https://www.gitkraken.com/)
 
 ## 참여 현황
 | 참여자 | 0 | 1 | 2| 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
