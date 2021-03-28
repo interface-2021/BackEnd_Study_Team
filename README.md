@@ -33,4 +33,5 @@
 |[정재형](https://github.com/bethago)      |✅|   |
 |[최인호](https://github.com/E-know)       |✅|❌|✅
 |[한정환](https://github.com/pizzaroot)    |✅|   |
+|[권새롬](https://github.com/romzzi)       |   |   |✅
 |[허인주](_blank)                          |   |   |❌
