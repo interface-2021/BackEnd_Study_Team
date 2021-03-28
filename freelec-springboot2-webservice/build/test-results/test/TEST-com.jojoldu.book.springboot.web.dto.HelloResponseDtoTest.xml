@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T04:39:53" hostname="LAPTOP-P7190EQV" time="0.235">
+  <properties/>
+  <testcase name="lombok_feature_test" classname="com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest" time="0.235"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
