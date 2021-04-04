@@ -1,0 +1,2 @@
+kom/backendstudy/springboot/Application.java
+ kom.backendstudy.springboot.Application

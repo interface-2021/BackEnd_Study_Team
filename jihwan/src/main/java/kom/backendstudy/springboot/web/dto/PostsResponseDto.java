@@ -1,7 +1,6 @@
 package kom.backendstudy.springboot.web.dto;
 
 import kom.backendstudy.springboot.domain.posts.Posts;
-import kom.backendstudy.springboot.domain.posts.PostsRepository;
 import lombok.Getter;
 
 @Getter
@@ -18,5 +17,4 @@ public class PostsResponseDto {
         this.content = entity.getContent();
         this.author = entity.getAuthor();
     }
-
 }
