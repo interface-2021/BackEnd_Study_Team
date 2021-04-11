@@ -1,6 +1,5 @@
-package kom.backendstudy.springboot.dto;
+package kom.backendstudy.springboot.web.dto;
 
-import kom.backendstudy.springboot.web.dto.HelloResponseDto;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
